@@ -1,0 +1,17 @@
+# Ignore Visual Studio Code directory
+.vscode
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore test logs directory
+test-logs/
+
+# Ignore test results directory
+test-results/
+
+# Ignore screenshots directory
+screenshots/
+
+# Ignore Playwright report directory
+playwright-report/
